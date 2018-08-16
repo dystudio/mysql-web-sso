@@ -121,7 +121,6 @@ env:
 
 
 <hr />
-<h3>Security - SSO Token Authentication</h3>
+<h3>Credits</h3>
 
-Credits:
 This project is a combination of https://github.com/pivotal-cf/identity-sample-apps and https://github.com/pivotal-cf/PivotalMySQLWeb
